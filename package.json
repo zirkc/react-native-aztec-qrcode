@@ -1,0 +1,26 @@
+
+{
+  "name": "react-native-aztec-qrcode",
+  "version": "0.1.0",
+  "description": "react-native Aztec and qrcode generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliojlgon/react-native-aztec-qrcode"
+  },
+  "keywords": [
+    "react-native",
+    "qrcode",
+    "aztec",
+    "azteccode"
+  ],
+  "author": "Julio López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliojlgon/react-native-aztec-qrcode/issues"
+  },
+  "homepage": "https://github.com/juliojlgon/react-native-aztec-qrcode#readme",
+  "dependencies": {
+    "qr.js": "0.0.0"
+  }
+}
