@@ -9,11 +9,11 @@ Aztec code is one of the standars in Aviation for E-ticket generator.
 
 ## Installation
 ```sh
-npm install 
+npm install https://github.com/juliojlgon/react-native-aztec-qrcode
 ```
 
 ```sh
-yarn install 
+yarn install https://github.com/juliojlgon/react-native-aztec-qrcode
 ```
 
 ## Usage
